@@ -1,3 +1,9 @@
 [submodule "42_libft"]
 	path = 42_libft
 	url = https://github.com/Bortize/42_libft.git
+[submodule "42_Netwhat"]
+	path = 42_Netwhat
+	url = https://github.com/Bortize/42_Netwhat.git
+[submodule "42_GetNextLine"]
+	path = 42_GetNextLine
+	url = https://github.com/Bortize/42_GetNextLine.git

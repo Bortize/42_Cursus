@@ -1,5 +1,5 @@
 # 42_Cursus
-https://github.com/Bortize/42_Cursus/issues/2#issue-656037762
+![alt text] (https://github.com/Bortize/42_Cursus/issues/2#issue-656037762)
 
 This repository contains all the projects (completed to date) of the School of Programming 42.
 

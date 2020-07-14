@@ -1,5 +1,5 @@
 # 42_Cursus
-![42_cursus](https://user-images.githubusercontent.com/55995077/87337313-8bf82e80-c543-11ea-88cc-ceeb3677477a.jpg)
+![42_cursus](./images/holy_graph.jpg)
 
 This repository contains all the projects (completed to date) of the School of Programming 42.
 

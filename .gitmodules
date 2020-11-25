@@ -10,3 +10,6 @@
 [submodule "42_printf"]
 	path = 42_printf
 	url = git@github.com:Bortize/42_printf.git
+[submodule "42_server"]
+	path = 42_server
+	url = git@github.com:Bortize/42_server.git
